@@ -1,3 +1,4 @@
+--- #1.Create a Custom VPC with 2 Public Subnets and 2 Private Subnets,Internet GateWay and Security Group.
 - name:               Create VPC
   ec2_vpc_net:
     name:             "{{ myvpc }}"
