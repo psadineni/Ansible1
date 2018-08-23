@@ -1,7 +1,7 @@
 ---
 # AWS Credentials
-myaccess: "AKIAIRS74VVHSBZXISDA"
-mysecret: "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"
+myaccess: "AKIAIPCJZFK6WZU4SO5A"
+mysecret: "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"
 myregion: "us-west-2"
 
 #VPC Information
@@ -18,7 +18,7 @@ myprisubcidr2: "10.0.4.0/24"
 
 #Defcidr
 
-defcidr: "172.31.0.0/16"
+#defcidr: "172.31.0.0/16"
 
 #Key
 
